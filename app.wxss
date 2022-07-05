@@ -1,0 +1,13 @@
+@import "/static/iconfont.wxss";
+
+page,view,text,swiper,swiper-item,image,navigator{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+page{
+    /* 主题颜色设置为nord */
+    --themecolor: #fb302c;
+    font-size: 28rpx;
+}
